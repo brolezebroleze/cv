@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 ```
 <html><!--mucho texto-->
     <head>
