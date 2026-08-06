@@ -1,5 +1,6 @@
 # Currículo
-```
+```html
+
 <html><!--mucho texto-->
     <head>
 <title>Portifólio</title>
